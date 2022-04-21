@@ -132,3 +132,11 @@ async function guessCoin(event) {
         console.log(error)
     }
 }
+
+// Art by Joan Stark
+//                     __
+//          .,-;-;-,. /'_\
+//        _/_/_/_|_\_\) /
+//      '-<_><_><_><_>=/\
+// jgs    `/_/====/_/-'\_\
+//         ""     ""    ""
