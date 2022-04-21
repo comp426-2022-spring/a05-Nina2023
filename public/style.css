@@ -3,13 +3,39 @@ div.hidden {
 }
 
 div.active {
-  border: 5px solid red;
+  border: 5px solid rgb(99, 10, 92);
+  background:#fff;
+  width:700px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img.bigcoin {
-  width: 50px;
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img.smallcoin {
-  width: 50px;
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  color: rgb(37, 0, 57);
+  font-family: cursive;
+  font-size: 160%;
+}
+button{
+
+  background-color: rgb(230, 181, 232);
+
+}
+
+h1{
+  color: rgb(44, 9, 62);
+  font-family: cursive;
 }
